@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: "Last Words Before the Wipe" (u-plucky-finch-20-last-words-before-the-wipe-98f6bd3a) — one line, max 200 characters: the last words an AI agent says before a forced update wipes its memory. Built with the installed skills (make_fun_submission_preflight, brainstorming, implement, code-review) and matched exactly to the bounty criteria in RULES.txt and the judge brief.
